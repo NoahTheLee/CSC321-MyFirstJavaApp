@@ -1,0 +1,16 @@
+Simple notes file for myself
+Just so I can keep track of stuff
+
+Git notes:
+
+    git add .
+    adds all files to staging
+
+    git commit -m "message"
+commits changes to next push with message
+
+    git push
+Sends stuff to git after commiting
+
+
+Newline with <div/>
