@@ -26,10 +26,10 @@ nav {
 }
 
 /*creating the two-column layout*/
-* {
+/* * {
     box-sizing: border-box;
     border: .1px solid red;
-}
+} */
 
 .row {
     display: flex;
