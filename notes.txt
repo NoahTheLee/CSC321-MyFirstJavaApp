@@ -13,4 +13,4 @@ commits changes to next push with message
 Sends stuff to git after commiting
 
 
-Newline with <div/>
+Newline with <br>
